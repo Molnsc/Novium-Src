@@ -1,12 +1,20 @@
-# Novium Source
-*Contains v0.5.3*
-# Features
-*Based of Contained Version*
-**Launch Encrypter**
-**User Data Encrypter + Monitor**
-*------------------------------*
-**Simple Bypass DOLL (Launches Specific Games)**
-v0.5.3 Bypass Doll, Allows user to Launch OWNED games even when banned.
-Can only play your owned games while banned.
-Function to play any-game is in v0.6.4
-*------------------------------*
+# Novium Source (v0.5.3)
+
+## Features
+
+### 🔒 Core Functionality
+- **Launch Encrypter**  
+  Encrypts the game launch process for enhanced security.
+
+- **User Data Encrypter + Monitor**  
+  Provides encryption and continuous monitoring of user data.
+
+---
+
+### 🎮 Bypass Feature: DOLL (Launch Specific Games)
+- **Simple Bypass DOLL** *(v0.5.3)*  
+  - Allows launching of **owned games** even while banned.
+  - Note: Only **owned games** can be played in this version during a ban.
+  - ⚡ *While in v0.6.4+:* Can play **any game** while banned!
+
+---
