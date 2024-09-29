@@ -23,6 +23,6 @@ void InjectVIPER(DWORD processID, const char* dllPath) {
 int main() {
     DWORD processID; 
     const char* dllPath = "C:\\sep\\vi\\novium\\sebl.dll";
-    InjectDLL(processID, dllPath);
+    InjectVIPER(processID, dllPath);
     return 0;
 }
