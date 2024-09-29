@@ -18,3 +18,4 @@
   - ⚡ *While in v0.6.4+:* Can play **any game** while banned!
 
 ---
+*Please note that we give the Core-Functions to make these works and at the current time these aren't the full code to properly execute these functions all though it easy to make them work with Simple C++ Knowledge!*
